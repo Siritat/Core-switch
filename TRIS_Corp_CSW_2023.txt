@@ -1,4 +1,4 @@
-TRIS_Corp_CSW#sh run
+TRIS_Corp_CSW#sh run test test
 Building configuration...
  
 Current configuration : 19178 bytes
