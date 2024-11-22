@@ -1,4 +1,4 @@
-TRIS_Corp_CSW#sh run test test
+TRIS_Corp_CSW#sh run
 Building configuration...
  
 Current configuration : 19178 bytes
@@ -135,7 +135,7 @@ crypto pki certificate chain SLA-TrustPoint
   80DDCD16 D6BACECA EEBC7CF9 8428787B 35202CDC 60E4616A B623CDBD 230E3AFB 
   418616A9 4093E049 4D10AB75 27E86F73 932E35B5 8862FDAE 0275156F 719BB2F0 
   D697DF7F 28
-  	quit
+    quit
 crypto pki certificate chain TP-self-signed-3066265911
  certificate self-signed 01
   30820330 30820218 A0030201 02020101 300D0609 2A864886 F70D0101 05050030 
@@ -164,7 +164,7 @@ crypto pki certificate chain TP-self-signed-3066265911
   FFF46960 2457A9FB 98072B87 C8CB10C7 024F2525 79DC1BAF BD3CED86 83D3B239 
   F2B438EC 7195D8E2 C9D8AAA6 2B359BF6 89843BFE 46151AC5 507AE025 25CCE947 
   6CC1297C 9784170A 7DE561FC 7BE53AC2 40D2452E
-  	quit
+    quit
 !
 !
 license boot level network-advantage addon dna-advantage
